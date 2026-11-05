@@ -1,0 +1,376 @@
+product_id,champ,source,hbase,statut
+19,product_id,19,19,OK
+19,product_name,Nike Men's Fingertrap Max Training Shoe,Nike Men's Fingertrap Max Training Shoe,OK
+19,category_id,2,2,OK
+19,revenue,7874.3698654174805,7874.3698654174805,OK
+19,view_number,859,48963,ÉCART
+35,product_id,35,35,OK
+35,product_name,adidas Brazuca 2014 Official Match Ball,adidas Brazuca 2014 Official Match Ball,OK
+35,category_id,3,3,OK
+35,revenue,9919.380340576174,9919.380340576174,OK
+35,view_number,435,24795,ÉCART
+37,product_id,37,37,OK
+37,product_name,adidas Kids' F5 Messi FG Soccer Cleat,adidas Kids' F5 Messi FG Soccer Cleat,OK
+37,category_id,3,3,OK
+37,revenue,25892.600524902344,25892.600524902344,OK
+37,view_number,439,78581,ÉCART
+58,product_id,58,58,OK
+58,product_name,Diamondback Boys' Insight 24 Performance Hybr,Diamondback Boys' Insight 24 Performance Hybr,OK
+58,category_id,4,4,OK
+58,revenue,8399.7197265625,8399.7197265625,OK
+58,view_number,458,11450,ÉCART
+60,product_id,60,60,OK
+60,product_name,SOLE E25 Elliptical,SOLE E25 Elliptical,OK
+60,category_id,4,4,OK
+60,revenue,9999.89990234375,9999.89990234375,OK
+60,view_number,418,4180,ÉCART
+93,product_id,93,93,OK
+93,product_name,Under Armour Men's Tech II T-Shirt,Under Armour Men's Tech II T-Shirt,OK
+93,category_id,5,5,OK
+93,revenue,19917.029817581177,19917.029817581177,OK
+93,view_number,870,165300,ÉCART
+116,product_id,116,116,OK
+116,product_name,Nike Men's Comfort 2 Slide,Nike Men's Comfort 2 Slide,OK
+116,category_id,6,6,OK
+116,revenue,42920.46059036255,42920.46059036255,OK
+116,view_number,896,181888,ÉCART
+127,product_id,127,127,OK
+127,product_name,Stiga Master Series ST3100 Competition Indoor,Stiga Master Series ST3100 Competition Indoor,OK
+127,category_id,7,7,OK
+127,revenue,8249.749755859375,8249.749755859375,OK
+127,view_number,482,10122,ÉCART
+135,product_id,135,135,OK
+135,product_name,Nike Dri-FIT Crew Sock 6 Pack,Nike Dri-FIT Crew Sock 6 Pack,OK
+135,category_id,7,7,OK
+135,revenue,18656.0,18656.0,OK
+135,view_number,406,79576,ÉCART
+191,product_id,191,191,OK
+191,product_name,Nike Men's Free 5.0+ Running Shoe,Nike Men's Free 5.0+ Running Shoe,OK
+191,category_id,9,9,OK
+191,revenue,3507549.2067337036,3507549.2067337036,OK
+191,view_number,1004,365456,ÉCART
+208,product_id,208,208,OK
+208,product_name,SOLE E35 Elliptical,SOLE E35 Elliptical,OK
+208,category_id,10,10,OK
+208,revenue,29999.849853515625,29999.849853515625,OK
+208,view_number,421,6315,ÉCART
+216,product_id,216,216,OK
+216,product_name,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,OK
+216,category_id,10,10,OK
+216,revenue,11718.0,11718.0,OK
+216,view_number,466,25630,ÉCART
+235,product_id,235,235,OK
+235,product_name,Under Armour Hustle Storm Medium Duffle Bag,Under Armour Hustle Storm Medium Duffle Bag,OK
+235,category_id,11,11,OK
+235,revenue,28481.860607147217,28481.860607147217,OK
+235,view_number,939,175593,ÉCART
+249,product_id,249,249,OK
+249,product_name,Under Armour Women's Micro G Skulpt Running S,Under Armour Women's Micro G Skulpt Running S,OK
+249,category_id,12,12,OK
+249,revenue,44195.88098144531,44195.88098144531,OK
+249,view_number,389,69631,ÉCART
+258,product_id,258,258,OK
+258,product_name,Nike Women's Free 5.0 TR FIT PRT 4 Training S,Nike Women's Free 5.0 TR FIT PRT 4 Training S,OK
+258,category_id,12,12,OK
+258,revenue,18903.010009765625,18903.010009765625,OK
+258,view_number,445,27590,ÉCART
+273,product_id,273,273,OK
+273,product_name,Under Armour Kids' Mercenary Slide,Under Armour Kids' Mercenary Slide,OK
+273,category_id,13,13,OK
+273,revenue,21244.409801483154,21244.409801483154,OK
+273,view_number,327,55917,ÉCART
+276,product_id,276,276,OK
+276,product_name,Under Armour Women's Ignite Slide,Under Armour Women's Ignite Slide,OK
+276,category_id,13,13,OK
+276,revenue,27799.30979347229,27799.30979347229,OK
+276,view_number,296,53576,ÉCART
+278,product_id,278,278,OK
+278,product_name,Under Armour Men's Compression EV SL Slide,Under Armour Men's Compression EV SL Slide,OK
+278,category_id,13,13,OK
+278,revenue,34867.25054168701,34867.25054168701,OK
+278,view_number,309,56238,ÉCART
+295,product_id,295,295,OK
+295,product_name,Fitbit The One Wireless Activity & Sleep Trac,Fitbit The One Wireless Activity & Sleep Trac,OK
+295,category_id,38,38,OK
+295,revenue,17891.049835205078,17891.049835205078,OK
+295,view_number,55,2915,ÉCART
+303,product_id,303,303,OK
+303,product_name,Garmin Forerunner 910XT GPS Watch,Garmin Forerunner 910XT GPS Watch,OK
+303,category_id,38,38,OK
+303,revenue,13199.669677734375,13199.669677734375,OK
+303,view_number,62,1984,ÉCART
+305,product_id,305,305,OK
+305,product_name,Mio ALPHA Heart Rate Monitor/Sport Watch,Mio ALPHA Heart Rate Monitor/Sport Watch,OK
+305,category_id,38,38,OK
+305,revenue,12935.0,12935.0,OK
+305,view_number,66,4158,ÉCART
+306,product_id,306,306,OK
+306,product_name,Polar FT4 Heart Rate Monitor,Polar FT4 Heart Rate Monitor,OK
+306,category_id,38,38,OK
+306,revenue,16738.140060424805,16738.140060424805,OK
+306,view_number,97,4947,ÉCART
+311,product_id,311,311,OK
+311,product_name,Polar Loop Activity Tracker,Polar Loop Activity Tracker,OK
+311,category_id,38,38,OK
+311,revenue,5277.599853515626,5277.599853515626,OK
+311,view_number,71,2982,ÉCART
+359,product_id,359,359,OK
+359,product_name,Nike Men's Free TR 5.0 TB Training Shoe,Nike Men's Free TR 5.0 TB Training Shoe,OK
+359,category_id,16,16,OK
+359,revenue,19898.009956359863,19898.009956359863,OK
+359,view_number,892,49952,ÉCART
+365,product_id,365,365,OK
+365,product_name,Perfect Fitness Perfect Rip Deck,Perfect Fitness Perfect Rip Deck,OK
+365,category_id,17,17,OK
+365,revenue,4233794.3682899475,4233794.3682899475,OK
+365,view_number,1926,701064,ÉCART
+403,product_id,403,403,OK
+403,product_name,Nike Men's CJ Elite 2 TD Football Cleat,Nike Men's CJ Elite 2 TD Football Cleat,OK
+403,category_id,18,18,OK
+403,revenue,2763977.4868011475,2763977.4868011475,OK
+403,view_number,1757,639548,ÉCART
+502,product_id,502,502,OK
+502,product_name,Nike Men's Dri-FIT Victory Golf Polo,Nike Men's Dri-FIT Victory Golf Polo,OK
+502,category_id,24,24,OK
+502,revenue,3011600.0,3011600.0,OK
+502,view_number,1780,647920,ÉCART
+565,product_id,565,565,OK
+565,product_name,adidas Youth Germany Black/Red Away Match Soc,adidas Youth Germany Black/Red Away Match Soc,OK
+565,category_id,26,26,OK
+565,revenue,63490.0,63490.0,OK
+565,view_number,590,120950,ÉCART
+567,product_id,567,567,OK
+567,product_name,adidas Men's Germany Black Crest Away Tee,adidas Men's Germany Black Crest Away Tee,OK
+567,category_id,26,26,OK
+567,revenue,20475.0,20475.0,OK
+567,view_number,556,101192,ÉCART
+572,product_id,572,572,OK
+572,product_name,TYR Boys' Team Digi Jammer,TYR Boys' Team Digi Jammer,OK
+572,category_id,26,26,OK
+572,revenue,33551.610622406006,33551.610622406006,OK
+572,view_number,541,105495,ÉCART
+607,product_id,607,607,OK
+607,product_name,Garmin Approach S3 Golf GPS Watch,Garmin Approach S3 Golf GPS Watch,OK
+607,category_id,41,41,OK
+607,revenue,18499.26040649414,18499.26040649414,OK
+607,view_number,147,9261,ÉCART
+627,product_id,627,627,OK
+627,product_name,Under Armour Girls' Toddler Spine Surge Runni,Under Armour Girls' Toddler Spine Surge Runni,OK
+627,category_id,29,29,OK
+627,revenue,1214896.220287323,1214896.220287323,OK
+627,view_number,873,317772,ÉCART
+642,product_id,642,642,OK
+642,product_name,Columbia Men's PFG Anchor Tough T-Shirt,Columbia Men's PFG Anchor Tough T-Shirt,OK
+642,category_id,29,29,OK
+642,revenue,26700.0,26700.0,OK
+642,view_number,930,174840,ÉCART
+646,product_id,646,646,OK
+646,product_name,Merrell Women's Grassbow Sport Hiking Shoe,Merrell Women's Grassbow Sport Hiking Shoe,OK
+646,category_id,30,30,OK
+646,revenue,20697.92999267578,20697.92999267578,OK
+646,view_number,157,9891,ÉCART
+647,product_id,647,647,OK
+647,product_name,Merrell Women's Siren Mid Waterproof Hiking B,Merrell Women's Siren Mid Waterproof Hiking B,OK
+647,category_id,30,30,OK
+647,revenue,9044.330368041994,9044.330368041994,OK
+647,view_number,143,8866,ÉCART
+666,product_id,666,666,OK
+666,product_name,Merrell Men's All Out Flash Trail Running Sho,Merrell Men's All Out Flash Trail Running Sho,OK
+666,category_id,30,30,OK
+666,revenue,9129.169822692871,9129.169822692871,OK
+666,view_number,116,8468,ÉCART
+671,product_id,671,671,OK
+671,product_name,Cleveland Golf Collegiate My Custom Wedge 588,Cleveland Golf Collegiate My Custom Wedge 588,OK
+671,category_id,31,31,OK
+671,revenue,13019.380340576174,13019.380340576174,OK
+671,view_number,254,14986,ÉCART
+691,product_id,691,691,OK
+691,product_name,MDGolf Pittsburgh Penguins Putter,MDGolf Pittsburgh Penguins Putter,OK
+691,category_id,31,31,OK
+691,revenue,10558.679908752441,10558.679908752441,OK
+691,view_number,253,12144,ÉCART
+703,product_id,703,703,OK
+703,product_name,Top Flite Women's 2014 XL Hybrid,Top Flite Women's 2014 XL Hybrid,OK
+703,category_id,32,32,OK
+703,revenue,17291.349815368652,17291.349815368652,OK
+703,view_number,244,50020,ÉCART
+705,product_id,705,705,OK
+705,product_name,Cleveland Golf Women's 588 RTX CB Satin Chrom,Cleveland Golf Women's 588 RTX CB Satin Chrom,OK
+705,category_id,32,32,OK
+705,revenue,8159.319854736327,8159.319854736327,OK
+705,view_number,254,16256,ÉCART
+724,product_id,724,724,OK
+724,product_name,LIJA Women's Mid-Length Panel Golf Shorts,LIJA Women's Mid-Length Panel Golf Shorts,OK
+724,category_id,33,33,OK
+724,revenue,22000.0,22000.0,OK
+724,view_number,167,10521,ÉCART
+725,product_id,725,725,OK
+725,product_name,LIJA Women's Button Golf Dress,LIJA Women's Button Golf Dress,OK
+725,category_id,33,33,OK
+725,revenue,7776.0,7776.0,OK
+725,view_number,182,11830,ÉCART
+728,product_id,728,728,OK
+728,product_name,LIJA Women's Eyelet Sleeveless Golf Polo,LIJA Women's Eyelet Sleeveless Golf Polo,OK
+728,category_id,33,33,OK
+728,revenue,58695.0,58695.0,OK
+728,view_number,165,33165,ÉCART
+743,product_id,743,743,OK
+743,product_name,Ogio Race Golf Shoes,Ogio Race Golf Shoes,OK
+743,category_id,34,34,OK
+743,revenue,10369.39033508301,10369.39033508301,OK
+743,view_number,508,29464,ÉCART
+768,product_id,768,768,OK
+768,product_name,Titleist Club Glove Travel Cover,Titleist Club Glove Travel Cover,OK
+768,category_id,35,35,OK
+768,revenue,9899.669677734375,9899.669677734375,OK
+768,view_number,105,3360,ÉCART
+771,product_id,771,771,OK
+771,product_name,Clicgear Rovic Cooler Bag,Clicgear Rovic Cooler Bag,OK
+771,category_id,35,35,OK
+771,revenue,33071.73045730591,33071.73045730591,OK
+771,view_number,76,14668,ÉCART
+775,product_id,775,775,OK
+775,product_name,Clicgear 8.0 Shoe Brush,Clicgear 8.0 Shoe Brush,OK
+775,category_id,35,35,OK
+775,revenue,8441.549942016602,8441.549942016602,OK
+775,view_number,105,19005,ÉCART
+777,product_id,777,777,OK
+777,product_name,Bag Boy M330 Push Cart,Bag Boy M330 Push Cart,OK
+777,category_id,35,35,OK
+777,revenue,16237.969940185547,16237.969940185547,OK
+777,view_number,71,4331,ÉCART
+778,product_id,778,778,OK
+778,product_name,Bag Boy Beverage Holder,Bag Boy Beverage Holder,OK
+778,category_id,35,35,OK
+778,revenue,20166.929796218872,20166.929796218872,OK
+778,view_number,82,14432,ÉCART
+786,product_id,786,786,OK
+786,product_name,TaylorMade 2014 Purelite Stand Bag,TaylorMade 2014 Purelite Stand Bag,OK
+786,category_id,35,35,OK
+786,revenue,11339.370346069338,11339.370346069338,OK
+786,view_number,78,4602,ÉCART
+792,product_id,792,792,OK
+792,product_name,Hirzl Men's Hybrid Golf Glove,Hirzl Men's Hybrid Golf Glove,OK
+792,category_id,36,36,OK
+792,revenue,12381.7398147583,12381.7398147583,OK
+792,view_number,112,20384,ÉCART
+797,product_id,797,797,OK
+797,product_name,Hirzl Women's Soffft Flex Golf Glove,Hirzl Women's Soffft Flex Golf Glove,OK
+797,category_id,36,36,OK
+797,revenue,15381.449813842773,15381.449813842773,OK
+797,view_number,122,23790,ÉCART
+804,product_id,804,804,OK
+804,product_name,Glove It Women's Imperial Golf Glove,Glove It Women's Imperial Golf Glove,OK
+804,category_id,36,36,OK
+804,revenue,17990.999807357788,17990.999807357788,OK
+804,view_number,129,24897,ÉCART
+810,product_id,810,810,OK
+810,product_name,Glove It Women's Mod Oval Golf Glove,Glove It Women's Mod Oval Golf Glove,OK
+810,category_id,36,36,OK
+810,revenue,14832.579835891724,14832.579835891724,OK
+810,view_number,110,19910,ÉCART
+818,product_id,818,818,OK
+818,product_name,Titleist Pro V1x Golf Balls,Titleist Pro V1x Golf Balls,OK
+818,category_id,37,37,OK
+818,revenue,40743.51052093506,40743.51052093506,OK
+818,view_number,86,16426,ÉCART
+822,product_id,822,822,OK
+822,product_name,Titleist Pro V1x High Numbers Golf Balls,Titleist Pro V1x High Numbers Golf Balls,OK
+822,category_id,37,37,OK
+822,revenue,37288.23052597046,37288.23052597046,OK
+822,view_number,81,14823,ÉCART
+823,product_id,823,823,OK
+823,product_name,Titleist Pro V1x High Numbers Personalized Go,Titleist Pro V1x High Numbers Personalized Go,OK
+823,category_id,37,37,OK
+823,revenue,45543.24142456055,45543.24142456055,OK
+823,view_number,80,15280,ÉCART
+825,product_id,825,825,OK
+825,product_name,Bridgestone e6 Straight Distance NFL Tennesse,Bridgestone e6 Straight Distance NFL Tennesse,OK
+825,category_id,37,37,OK
+825,revenue,24312.39977645874,24312.39977645874,OK
+825,view_number,88,15136,ÉCART
+828,product_id,828,828,OK
+828,product_name,Bridgestone e6 Straight Distance NFL San Dieg,Bridgestone e6 Straight Distance NFL San Dieg,OK
+828,category_id,37,37,OK
+828,revenue,28023.239835739136,28023.239835739136,OK
+828,view_number,88,17336,ÉCART
+835,product_id,835,835,OK
+835,product_name,Bridgestone e6 Straight Distance NFL Carolina,Bridgestone e6 Straight Distance NFL Carolina,OK
+835,category_id,37,37,OK
+835,revenue,28375.12979888916,28375.12979888916,OK
+835,view_number,71,14129,ÉCART
+845,product_id,845,845,OK
+845,product_name,Garmin Approach S4 Golf GPS Watch,Garmin Approach S4 Golf GPS Watch,OK
+845,category_id,38,38,OK
+845,revenue,9299.689697265625,9299.689697265625,OK
+845,view_number,83,2490,ÉCART
+860,product_id,860,860,OK
+860,product_name,Bushnell Pro X7 Jolt Slope Rangefinder,Bushnell Pro X7 Jolt Slope Rangefinder,OK
+860,category_id,38,38,OK
+860,revenue,4799.919921875,4799.919921875,OK
+860,view_number,60,420,ÉCART
+885,product_id,885,885,OK
+885,product_name,Team Golf St. Louis Cardinals Putter Grip,Team Golf St. Louis Cardinals Putter Grip,OK
+885,category_id,40,40,OK
+885,revenue,22990.799787521362,22990.799787521362,OK
+885,view_number,89,16732,ÉCART
+893,product_id,893,893,OK
+893,product_name,Team Golf Pittsburgh Steelers Putter Grip,Team Golf Pittsburgh Steelers Putter Grip,OK
+893,category_id,40,40,OK
+893,revenue,21891.23984336853,21891.23984336853,OK
+893,view_number,79,15484,ÉCART
+897,product_id,897,897,OK
+897,product_name,Team Golf New England Patriots Putter Grip,Team Golf New England Patriots Putter Grip,OK
+897,category_id,40,40,OK
+897,revenue,19642.139833450317,19642.139833450317,OK
+897,view_number,112,20720,ÉCART
+905,product_id,905,905,OK
+905,product_name,Team Golf Texas Longhorns Putter Grip,Team Golf Texas Longhorns Putter Grip,OK
+905,category_id,40,40,OK
+905,revenue,21141.539850234985,21141.539850234985,OK
+905,view_number,100,19600,ÉCART
+906,product_id,906,906,OK
+906,product_name,Team Golf Tennessee Volunteers Putter Grip,Team Golf Tennessee Volunteers Putter Grip,OK
+906,category_id,40,40,OK
+906,revenue,21766.289766311646,21766.289766311646,OK
+906,view_number,110,22110,ÉCART
+924,product_id,924,924,OK
+924,product_name,Glove It Urban Brick Golf Towel,Glove It Urban Brick Golf Towel,OK
+924,category_id,41,41,OK
+924,revenue,13335.659799575806,13335.659799575806,OK
+924,view_number,156,27300,ÉCART
+926,product_id,926,926,OK
+926,product_name,Glove It Imperial Golf Towel,Glove It Imperial Golf Towel,OK
+926,category_id,41,41,OK
+926,revenue,14055.209802627563,14055.209802627563,OK
+926,view_number,177,32745,ÉCART
+957,product_id,957,957,OK
+957,product_name,Diamondback Women's Serene Classic Comfort Bi,Diamondback Women's Serene Classic Comfort Bi,OK
+957,category_id,43,43,OK
+957,revenue,3946837.004547119,3946837.004547119,OK
+957,view_number,1059,385476,ÉCART
+981,product_id,981,981,OK
+981,product_name,The North Face Women's Recon Backpack,The North Face Women's Recon Backpack,OK
+981,category_id,44,44,OK
+981,revenue,17028.0,17028.0,OK
+981,view_number,571,29121,ÉCART
+982,product_id,982,982,OK
+982,product_name,insta-bed Neverflat Air Mattress,insta-bed Neverflat Air Mattress,OK
+982,category_id,44,44,OK
+982,revenue,8699.420318603516,8699.420318603516,OK
+982,view_number,486,24300,ÉCART
+1004,product_id,1004,1004,OK
+1004,product_name,Field & Stream Sportsman 16 Gun Fire Safe,Field & Stream Sportsman 16 Gun Fire Safe,OK
+1004,category_id,45,45,OK
+1004,revenue,6637668.282318115,6637668.282318115,OK
+1004,view_number,1028,374192,ÉCART
+1014,product_id,1014,1014,OK
+1014,product_name,O'Brien Men's Neoprene Life Vest,O'Brien Men's Neoprene Life Vest,OK
+1014,category_id,46,46,OK
+1014,revenue,2765543.314743042,2765543.314743042,OK
+1014,view_number,1084,394576,ÉCART
+1073,product_id,1073,1073,OK
+1073,product_name,Pelican Sunstream 100 Kayak,Pelican Sunstream 100 Kayak,OK
+1073,category_id,48,48,OK
+1073,revenue,2967851.6815185547,2967851.6815185547,OK
+1073,view_number,1104,401856,ÉCART
